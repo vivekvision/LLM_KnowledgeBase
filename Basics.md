@@ -10,5 +10,5 @@ Few-shot prompt: Few-shot prompts are similar to one-shot prompts, but the model
 
 Tuning - The process of adapting a model to a new domain or set of custom use cases by training the model on new data 
 
-Two different ways of Tuning - Prompt tuning  & Modle tuning (also known as Fine tuning) 
+Two different ways of Tuning - Prompt tuning  & Model tuning (also known as Fine tuning) 
 
