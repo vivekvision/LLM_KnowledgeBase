@@ -8,3 +8,6 @@ One-shot prompt: The model is provided with one example to the LLM within the pr
 
 Few-shot prompt: Few-shot prompts are similar to one-shot prompts, but the model is given multiple labeled examples of the task
 
+Tuning - The process of adapting a model to a new domain or set of custom use cases by training the model on new data 
+Two different ways of Tuning - Prompt tuning  & Modle tuning (also known as Fine tuning) 
+
