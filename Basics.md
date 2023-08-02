@@ -13,6 +13,8 @@ Tuning - The process of adapting a model to a new domain or set of custom use ca
 Two different ways of Tuning - Prompt tuning  & Model tuning (also known as Fine tuning) 
 
 Prompt Design -> Engineered Prompt 
+
 Parameter Efficient Tuning -> Tunable Soft Prompt 
+
 Fine Tuning -> Tunable Pre-trained Model -> Costly 
 
